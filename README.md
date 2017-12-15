@@ -1,8 +1,8 @@
 # 网易云音乐API
 ## 1、search
-* url: http://music.163.com/api/search/get/
-* method: post
-* parameter: s:search limit:number sub:false type:1
+> url: http://music.163.com/api/search/get/
+> method: post
+> parameter: s:search limit:number sub:false type:1
 
 ## 2、song information
 url: http://music.163.com/api/song/detail/?id=song_id&ids=[song_id]
